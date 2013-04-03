@@ -11,9 +11,18 @@ namespace Merge.Tests.Now.Thanks
 		
 		#endregion Properties
 		
+		#region Constructors
+		
+		public Texas()
+		{
+			throw new NotImplementedException("sup");
+		}
+		
+		#endregion Constructors
+		
 		#region Random Methods
 		
-		public int getRandomNumber()
+		public int GetRandomNumber()
 		{
 			return 4; 	// chosen by fair dice roll.
 						// guaranteed to be random.
