@@ -11,6 +11,15 @@ namespace Merge.Tests.Now.Thanks
 		
 		#endregion Properties
 		
+		#region Private Methods
+		
+		private void WhatsGoingOnInHere()
+		{
+			Console.WriteLine("");
+		}
+		
+		#endregion Private Methods
+		
 		#region Random Methods
 		
 		public int getRandomNumber()
